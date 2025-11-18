@@ -100,6 +100,9 @@ More information on moving WordPress can be found [here](http://codex.wordpress.
 
 == Changelog ==
 
+= Unreleased =
+* Fix: Improved security and stability
+
 = 1.4.10 - January 14, 2025 =
 * Fix: Improved security and stability
 
